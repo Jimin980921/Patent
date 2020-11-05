@@ -1,6 +1,6 @@
 # patent
 
-__대중교통 환승 정보를 제공하기 위한 시스템(A system for providing transit information on public transportation)__  
+__대중교통 환승 정보를 제공하기 위한 시스템(A system for providing transit information on public transportation)__   
 출원번호: 1020180144818  
 상태: 출원
 <br>
