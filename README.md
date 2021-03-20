@@ -16,7 +16,7 @@ __보행자용 네비게이션 방법 및 시스템(NAVIGATION METHOD AND SYSTEM
 상태: 거절
 <br>
 
-
+   
 
  
   
